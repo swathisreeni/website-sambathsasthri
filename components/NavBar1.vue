@@ -57,18 +57,18 @@ html {
   transition: var(--transition);
 }
 
-body {
+/* body {
   font-family: "Roboto", sans-serf;
-}
+} */
 
 ul li {
   list-style-type: none;
 }
 
-a {
+/* a {
   text-decoration: none;
   color: var(--primary-color);
-}
+} */
 
 /* a:hover {
   color: var(--secondary-color);
