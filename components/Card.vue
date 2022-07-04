@@ -1,0 +1,20 @@
+<template>
+  <div
+    class="
+      p-6
+      max-w-sm
+      h-64
+      mx-auto
+      bg-white
+      rounded-xl
+      shadow-lg
+      flex
+      items-start
+      space-x-4
+      text-ellipsis
+      bg-gray-400
+      overflow-scroll"
+  >
+    <slot> </slot>
+  </div>
+</template>
