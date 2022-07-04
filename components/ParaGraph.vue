@@ -1,9 +1,7 @@
 <template>
-    <div class="mt-20">
-     <section class="">
-        <h2> GURUJEGANNATHAN </h2>
-        <img src="https://www.bing.com/th?id=OHR.SummerDogs_EN-IN1477116261_1920x1200.jpg&rf=LaDigue_1920x1200.jpg"/>
-        <p> What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and
+  <div class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-lg flex items-center space-x-4 text-ellipsis overflow-y-auto h-64">
+    <p  class="text-slate-500">
+      What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and
       typesetting industry. Lorem Ipsum has been the industry's standard dummy
       text ever since the 1500s, when an unknown printer took a galley of type
       and scrambled it to make a type specimen book. It has survived not only
@@ -22,7 +20,13 @@
       accident, sometimes on purpose (injected humour and the like). Where does
       it come from? Contrary to popular belief, Lorem Ipsum is not simply random
       text. It has roots in a piece of classical Latin literature from 45 BC,
-      </p>
-     </section>
-    </div>
+      making it over 2000 years old. Richard McClintock, a Latin professor at
+      Hampden-Sydney College in Virginia, looked up one of the more obscure
+      Latin words, consectetur, from a Lorem Ipsum passage, and going through
+      the cites of the word in classical literature, discovered the undoubtable
+      source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus
+      Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in
+      45 BC. This book is a treatise on the theory of ethics, very popular
+    </p>
+  </div>
 </template>

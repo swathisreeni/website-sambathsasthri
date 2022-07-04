@@ -1,8 +1,8 @@
 <template>
     <div>
-    <section class="hero">
+    <section class="hero relative top-16">
       <div class="intro-text">
-        <h1>
+        <h1 class="font-bold">
           <span class="hear"> You can Hear the Jabs </span> <br />
           <span class="connecting"> Connecting</span>
         </h1>
@@ -36,8 +36,8 @@
   align-items: center;
   justify-content: space-between;
   gap: 1.9rem;
-  max-width: 1100px;
-  margin: 2rem auto -6rem;
+  /* max-width: 1100px; */
+  margin: 2rem auto 0rem;
 }
 
 .intro-text h1 {
