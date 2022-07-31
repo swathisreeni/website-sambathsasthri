@@ -20,6 +20,9 @@
         <li class="nav-item h-10 ml-8 rounded-lg hover:bg-yellow-400 bg-yellow-300 text-center pt-2 w-32">
           <a href="#sub" class="m-4" id="nav-link">Subscribe</a>
         </li>
+          <li class="nav-item h-10 ml-8 rounded-lg hover:bg-yellow-400 bg-yellow-300 text-center pt-2 w-32">
+          <NuxtLink to="/contactus" class="m-4" id="nav-link">Contactus</NuxtLink>
+        </li>
       </ul>
       <div class="hamburger" id="hamburger">
         <span class="bar"></span>

@@ -19,7 +19,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Antic+Slab,wght@0,400;0,900;1,700&display=swap'}
+      { rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Antic+Slab,wght@0,400;0,900;1,700&display=swap'},
+      { rel: 'stylesheet', href:'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.css'}
     ]
   },
 
